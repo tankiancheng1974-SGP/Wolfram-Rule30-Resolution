@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.5281/zenodo.22876299))])
+[https://doi.org/10.5281/zenodo.22876299))])
 
 # KCTAN-EULA Unified Matrix Engine: A Shift-Register Entry Point for Rule 30
 
