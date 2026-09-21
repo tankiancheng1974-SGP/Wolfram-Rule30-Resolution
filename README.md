@@ -1,3 +1,5 @@
+[![DOI](https://doi.org/10.5281/zenodo.22876299))])
+
 # KCTAN-EULA Unified Matrix Engine: A Shift-Register Entry Point for Rule 30
 
 This repository contains the official codebase and analytical proofs for the **KCTAN-EULA Unified Matrix Engine**, establishing a direct, one-line arithmetic equivalence to Stephen Wolfram's Rule 30 Cellular Automaton. 
